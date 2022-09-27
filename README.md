@@ -23,7 +23,7 @@ Json keys description:
 - **1664055941.0:** Unix timestamp, get the time of the sentence
 - **lang:** The language code of this sentence (see https://meta.wikimedia.org/wiki/Table_of_Wikimedia_projects)
 - **keyword:** The subject of this sentence, described in that language
-- **blurb:** A sentence about the news brief description (see https://en.wikipedia.org/wiki/Blurb)
+- **blurb:** A sentence about the news brief description (see https://en.wikipedia.org/wiki/Blurb), with HTML tags
 
 ## License
 [cc-by-sa 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
