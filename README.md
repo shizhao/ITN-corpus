@@ -24,3 +24,6 @@ Json keys description:
 - **lang:** The language code of this sentence (see https://meta.wikimedia.org/wiki/Table_of_Wikimedia_projects)
 - **keyword:** The subject of this sentence, described in that language
 - **blurb:** A sentence about the news brief description (see https://en.wikipedia.org/wiki/Blurb)
+
+## License
+[cc-by-sa 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
