@@ -20,6 +20,6 @@ The corpus is in json format:
 Json keys description:
 - Q106823124: [QID](https://www.wikidata.org/wiki/Help:Items) of a Wikidata item, represent the same topics in this set of corpora
 - 1664055941.0： Unix timestamp, get the time of the sentence
-- ang: The language code of this sentence (see https://meta.wikimedia.org/wiki/Table_of_Wikimedia_projects)
+- lang: The language code of this sentence (see https://meta.wikimedia.org/wiki/Table_of_Wikimedia_projects)
 - keyword: The subject of this sentence, described in that language
 - blurb: A sentence about the news brief description (see https://en.wikipedia.org/wiki/Blurb)
