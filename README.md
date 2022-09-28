@@ -1,3 +1,7 @@
+![json](https://img.shields.io/badge/json-validated-brightgreen)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/shizhao/ITN-corpus/main)
+![cc-by-sa 3.0](https://img.shields.io/badge/license-cc--by--sa%203.0-blue)
+
 ITN corpus is a multilingual comparable corpus that collects blurb content of  [ITN](https://en.wikipedia.org/wiki/Template:In_the_news) (In the news) on Wikipedia. Daily update.
 
 The corpus is in json format:
@@ -19,11 +23,15 @@ The corpus is in json format:
 ```
 Json keys description:
 
-- **Q106823124:** [QID](https://www.wikidata.org/wiki/Help:Items) of a Wikidata item, represent the same topics in this set of corpora
-- **1664055941.0:** Unix timestamp, get the time of the sentence
-- **lang:** The language code of this sentence (see https://meta.wikimedia.org/wiki/Table_of_Wikimedia_projects)
-- **keyword:** The subject of this sentence, described in that language
-- **blurb:** A sentence about the news brief description (see https://en.wikipedia.org/wiki/Blurb), with HTML tags
+- **`Q106823124`:** [QID](https://www.wikidata.org/wiki/Help:Items) of a Wikidata item, represent the same topics in this set of corpora
+- **`1664055941.0`:** Unix timestamp, get the time of the sentence
+- **`lang`:** The language code of this sentence (see https://meta.wikimedia.org/wiki/Table_of_Wikimedia_projects)
+- **`keyword`:** The subject of this sentence, described in that language
+- **`blurb`:** A sentence about the news brief description (see https://en.wikipedia.org/wiki/Blurb), with HTML tags
+
+An example using this corpus： [ITN Syndication](https://itnsyn.toolforge.org/)
 
 ## License
-[cc-by-sa 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 3.0</a></p>
