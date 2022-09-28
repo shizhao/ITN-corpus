@@ -36,9 +36,10 @@ An example using this corpus： [ITN Syndication](https://itnsyn.toolforge.org/)
 ![sentences](https://img.shields.io/badge/sentences-%3E140-blue)
 ![languages](https://img.shields.io/badge/languages-%3E40-blue)
 
-For more details on the statistics of this corpus, see: [stat.txt](./stat.txt)
+For more details on the statistics about this corpus, see: [stat.txt](./stat.txt)
 
 ## License
-
+<p xmlns:cc="http://creativecommons.org/ns#" >
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 3.0</a></p>
+ 
+This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 3.0</a></p>
