@@ -1,5 +1,5 @@
-![json](https://img.shields.io/badge/json-validated-brightgreen)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/shizhao/ITN-corpus/main)
+![json](https://img.shields.io/badge/json-validated-brightgreen)
 ![cc-by-sa 3.0](https://img.shields.io/badge/license-cc--by--sa%203.0-blue)
 
 ITN corpus is a multilingual comparable corpus that collects blurb content of  [ITN](https://en.wikipedia.org/wiki/Template:In_the_news) (In the news) on Wikipedia. Daily update.
@@ -30,6 +30,13 @@ Json keys description:
 - **`blurb`:** A sentence about the news brief description (see https://en.wikipedia.org/wiki/Blurb), with HTML tags
 
 An example using this corpus： [ITN Syndication](https://itnsyn.toolforge.org/)
+
+## Statistics
+![subjects](https://img.shields.io/badge/subjects-%3E20-blue)
+![sentences](https://img.shields.io/badge/sentences-%3E140-blue)
+![languages](https://img.shields.io/badge/languages-%3E40-blue)
+
+For more details on the statistics of this corpus, see: [stat.txt](./stat.txt)
 
 ## License
 
