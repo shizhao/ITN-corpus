@@ -1,6 +1,6 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/shizhao/ITN-corpus/main)
 ![json](https://img.shields.io/badge/json-validated-brightgreen)
-![cc-by-sa 3.0]([https://img.shields.io/badge/license-cc--by--sa%203.0-blue](https://img.shields.io/badge/license-cc--by--sa%203.0-lightgrey))
+![cc-by-sa 3.0](https://img.shields.io/badge/license-cc--by--sa%203.0-green)
 
 ITN corpus is a multilingual comparable corpus that collects blurb content of  [ITN](https://en.wikipedia.org/wiki/Template:In_the_news) (In the news) on Wikipedia. Daily update.
 
