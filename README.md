@@ -32,8 +32,8 @@ Json keys description:
 An example using this corpus： [ITN Syndication](https://itnsyn.toolforge.org/)
 
 ## Statistics
-![subjects](https://img.shields.io/badge/subjects-%3E50-blue)
-![sentences](https://img.shields.io/badge/sentences-%3E400-blue)
+![subjects](https://img.shields.io/badge/subjects-%3E60-blue)
+![sentences](https://img.shields.io/badge/sentences-%3E500-blue)
 ![languages](https://img.shields.io/badge/languages-45-blue)
 
 For more details on the statistics about this corpus, see: [stat.txt](./stat.txt)
