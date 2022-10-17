@@ -34,7 +34,7 @@ An example using this corpus： [ITN Syndication](https://itnsyn.toolforge.org/)
 ## Statistics
 ![subjects](https://img.shields.io/badge/subjects-%3E70-blue)
 ![sentences](https://img.shields.io/badge/sentences-%3E700-blue)
-![languages](https://img.shields.io/badge/languages-45-blue)
+![languages](https://img.shields.io/badge/languages-47-blue)
 
 For more details on the statistics about this corpus, see: [stat.txt](./stat.txt)
 
