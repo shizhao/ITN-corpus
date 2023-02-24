@@ -2,9 +2,9 @@
 ITN corpus statistics:
 -----------------------
 Subjects: 254
-Sentences: 2982
+Sentences: 2986
 Languages: 55
 Languages detail: 
 ['af', 'ar', 'av', 'azb', 'be', 'be-tarask', 'bh', 'bjn', 'ckb', 'da', 'de', 'el', 'en', 'fa', 'fi', 'fr', 'frp', 'he', 'hi', 'id', 'ka', 'kaa', 'kk', 'kn', 'ko', 'ky', 'la', 'min', 'ml', 'ms', 'mzn', 'ne', 'no', 'ny', 'pl', 'pnb', 'pt', 'ro', 'ru', 'sco', 'sh', 'si', 'sv', 'ta', 'th', 'tl', 'uk', 'ur', 'uz', 'wuu', 'xmf', 'yi', 'zh', 'zh-classical', 'zh-yue']
 ------------------------
-Update on: 2023-02-24 00:00:35.362768
+Update on: 2023-02-24 12:00:49.968917
