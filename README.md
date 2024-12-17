@@ -31,14 +31,14 @@ Json keys description:
 
 An example using this corpus： [ITN Syndication](https://itnsyn.toolforge.org/)
 
+DOI: [10.6084/m9.figshare.28043525.v1](https://doi.org/10.6084/m9.figshare.28043525.v1)
+
 ## Statistics
 ![subjects](https://img.shields.io/badge/subjects-%3E400-blue)
 ![sentences](https://img.shields.io/badge/sentences-%3E5000-blue)
 ![languages](https://img.shields.io/badge/languages-56-blue)
 
 For more details on the statistics about this corpus, see: [stat.txt](./stat.txt)
-
-DOI: [10.6084/m9.figshare.28043525.v1](https://doi.org/10.6084/m9.figshare.28043525.v1)
 
 ## License
 <p xmlns:cc="http://creativecommons.org/ns#" >
