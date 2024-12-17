@@ -38,6 +38,8 @@ An example using this corpus： [ITN Syndication](https://itnsyn.toolforge.org/)
 
 For more details on the statistics about this corpus, see: [stat.txt](./stat.txt)
 
+DOI: [10.6084/m9.figshare.28043525.v1](https://doi.org/10.6084/m9.figshare.28043525.v1)
+
 ## License
 <p xmlns:cc="http://creativecommons.org/ns#" >
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1">
